@@ -8,6 +8,13 @@
 ## Overview of the Project
 
 **Project**: Exploratory Data Analysis (EDA) on Car Dataset
+![image](https://github.com/kevi07/CODTECH-Task1/assets/120391759/f83e20b8-bfd8-4646-8096-6cfd8f5ed0ab)
+![image](https://github.com/kevi07/CODTECH-Task1/assets/120391759/54081e75-764a-4ee9-b18d-0637d66f98ea)
+![image](https://github.com/kevi07/CODTECH-Task1/assets/120391759/be8c00f0-371d-4a3c-9780-fa2aa4524235)
+![image](https://github.com/kevi07/CODTECH-Task1/assets/120391759/0e960eac-8432-4ff3-84da-3d78f2b7cd33)
+![image](https://github.com/kevi07/CODTECH-Task1/assets/120391759/44f8c835-09f1-43ff-85ad-5e632c0d14dd)
+
+
 
 ### Objective
 
